@@ -1,2 +1,0 @@
-# LinkedList
-linlked_list
